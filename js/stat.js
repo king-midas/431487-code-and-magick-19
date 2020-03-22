@@ -80,3 +80,4 @@
 // //   ctx.fillText(playerName, CLOUD_X + GAP, CLOUD_Y + GAP + FONT_GAP + (GAP + BAR_HEIGHT) * 2);
 // //   ctx.fillRect(CLOUD_X + GAP + TEXT_WIDTH, CLOUD_Y + GAP + (GAP + BAR_HEIGHT) * playerIndex, barWidth, BAR_HEIGHT);
 // };
+// 5. Учебный проект: нас орда
